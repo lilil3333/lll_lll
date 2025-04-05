@@ -22,7 +22,7 @@
 
 确保已安装 Python 3 和 `requests` 库。安装命令：
 ```bash
-pip install -r requirements.txt
+pip install requests
 ```
 
 ### 命令行参数
