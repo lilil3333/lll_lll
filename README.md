@@ -41,6 +41,8 @@ python CVE-2025-30208.py -h
 | `--deep`       | `-d` | 否   | 启用企业级深度检测（用户权限、Web配置、云环境指纹等）。             |
 | `--proxy`      | `-p` | 否   | 指定 HTTP/HTTPS 代理地址（例如：`http://127.0.0.1:8080`）。         |
 
+![image](https://github.com/user-attachments/assets/8c63bdc4-8420-467c-adba-130c72051822)
+
 #### 示例
 
 1. **基础检测（默认读取 `/etc/passwd` 或 `C:/windows/win.ini`）**
